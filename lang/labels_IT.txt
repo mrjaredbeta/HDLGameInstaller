@@ -35,8 +35,8 @@ Tipo disco:
 Voto:
 Tempo\nrimanente:
 Titolo completo (Massimo 80 caratteri):
-Linea titolo OSD 1 (Massimo 16 caratteri):
-Linea titolo OSD 2 (Massimo 16 caratteri):
+Linea titolo OSD 1 (Massimo 48 caratteri):
+Linea titolo OSD 2 (Massimo 48 caratteri):
 Usa EE core alternativo:
 Lettura Multithread:
 Apri syscalls:

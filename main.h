@@ -9,7 +9,7 @@
 #define GAME_TITLE_MAX_LEN       (GAME_TITLE_MAX_LEN_BYTES / 2) /* In characters. Note: the original format for HDLoader just has a 160-character space. \
                                         But UTF-8 characters may have 1 or more bytes each. Hence this is an approximation. */
 #define OSD_TITLE_MAX_LEN_BYTES  (OSD_TITLE_MAX_LEN * 4)        // In bytes, when in UTF-8 characters
-#define OSD_TITLE_MAX_LEN        64                             // In characters
+#define OSD_TITLE_MAX_LEN        48                             // In characters
 
 #ifdef DEBUG_TTY_FEEDBACK
 #define DEBUG_PRINTF(args...) printf(args)

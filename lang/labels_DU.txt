@@ -35,8 +35,8 @@ Disc type:
 Snelheid:
 Tijd\nresterend:
 Volledige titel (Max 80 characters):
-OSD titel regel 1 (Max 16 characters):
-OSD titel regel 2 (Max 16 characters):
+OSD titel regel 1 (Max 48 characters):
+OSD titel regel 2 (Max 48 characters):
 Alternatieve EE core:
 Multithreaded reading:
 Unhook syscalls:

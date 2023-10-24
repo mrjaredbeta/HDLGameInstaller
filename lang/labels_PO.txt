@@ -35,8 +35,8 @@ Mídia:
 Taxa:
 Tempo:
 Título do jogo     (80 caracteres máx):
-Título OSD linha 1 (16 caracteres máx):
-Título OSD linha 2 (16 caracteres máx):
+Título OSD linha 1 (48 caracteres máx):
+Título OSD linha 2 (48 caracteres máx):
 Carregar núcleo alternativo
 Modo de leitura alternativa
 Excluir chamadas de sistema

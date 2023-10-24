@@ -35,8 +35,8 @@ Média:
 Vitesse de transfert:
 Temps\n restant:
 Nom complet du jeu (80 caractères max.):
-Titre OSD Ligne 1 (16 caractères max.):
-Titre OSD Ligne 2 (16 caractères max.):
+Titre OSD Ligne 1 (48 caractères max.):
+Titre OSD Ligne 2 (48 caractères max.):
 Utiliser le coeur alternatif:
 Méthode de lecture alternative:
 Désactiver syscalls:

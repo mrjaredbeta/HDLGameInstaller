@@ -35,8 +35,8 @@ Medio:
 Tasa:
 Tiempo\nrestante:
 Nombre completo (Máx 80 caracteres):
-Línea 1 de título OSD (Máx 16 caracteres):
-Línea 2 de título OSD (Máx 16 caracteres):
+Línea 1 de título OSD (Máx 48 caracteres):
+Línea 2 de título OSD (Máx 48 caracteres):
 Cargar núcleo alternativo:
 Método lectura alternativo:
 Eliminar llamadas sistema:

@@ -35,8 +35,8 @@ CD/DVD Typ:
 Geschwindigkeit:
 Zeit\nverbleibend:
 Vollständiger Titel (Max 80 Zeichen):
-OSD-Titel Zeile 1 (Max 16 Zeichen):
-OSD-Titel Zeile 2 (Max 16 Zeichen):
+OSD-Titel Zeile 1 (Max 48 Zeichen):
+OSD-Titel Zeile 2 (Max 48 Zeichen):
 Alternativen EE Core benutzen:
 Multithreaded reading:
 Unhook syscalls:
