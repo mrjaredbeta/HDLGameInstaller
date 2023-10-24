@@ -212,7 +212,7 @@ static int VerifyCommonGameDataFormInput(HWND hwnd)
         goto end;
     }
     if (FieldLength > OSD_TITLE_MAX_LEN) {
-        MessageBox(hwnd, L"OSD title line 1 is too long (Maximum 16 characters).", L"Invalid input", MB_OK | MB_ICONERROR);
+        MessageBox(hwnd, L"OSD title line 1 is too long (Maximum 48 characters).", L"Invalid input", MB_OK | MB_ICONERROR);
         result = -EINVAL;
         goto end;
     }
@@ -221,7 +221,7 @@ static int VerifyCommonGameDataFormInput(HWND hwnd)
     windowItemH = GetDlgItem(hwnd, IDC_EDIT_OSD_TITLE2);
     FieldLength = GetWindowTextLength(windowItemH);
     if (FieldLength > OSD_TITLE_MAX_LEN) {
-        MessageBox(hwnd, L"OSD title line 2 is too long (Maximum 16 characters).", L"Invalid input", MB_OK | MB_ICONERROR);
+        MessageBox(hwnd, L"OSD title line 2 is too long (Maximum 48 characters).", L"Invalid input", MB_OK | MB_ICONERROR);
         result = -EINVAL;
         goto end;
     }
